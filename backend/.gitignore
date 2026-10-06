@@ -1,1 +1,3 @@
 node_modules
+run_project.bat
+.env
